@@ -1,5 +1,5 @@
 # Restaurant WebSite Project
-## I used HTML, CSS, JS in this project.
+## I used React JS in this project.
 
 ## Screen
-![](screen.gif)# RestaurantWebsite
+![](screen.gif)
